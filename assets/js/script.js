@@ -51,6 +51,7 @@ function currentCondition(city) {
 
             futureCondition(lat, lon);
 
+// UV index weather condition by color
             if (uvIndex >= 0 && uvIndex <= 2) {
                 $("#uvIndexColor").css("background-color", "#3EA72D").css("color", "white");
             } else if (uvIndex >= 3 && uvIndex <= 5) {
