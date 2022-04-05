@@ -20,4 +20,4 @@ THEN I am again presented with current and future conditions for that city</br>
 
 https://amjimenez.github.io/weather-dash/
 
-<img width="1295" alt="Screen Shot 2022-03-20 at 9 38 25 PM" src="https://user-images.githubusercontent.com/99158580/159195964-985ef7a5-c751-4060-949a-659a4146b54c.png">
+<img width="1510" alt="Screen Shot 2022-04-04 at 10 53 53 PM" src="https://user-images.githubusercontent.com/99158580/161669802-bfad1ab2-3766-4a41-81f7-ac20153644a6.png">
